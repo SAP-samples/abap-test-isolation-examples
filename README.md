@@ -19,6 +19,9 @@ ltc_call_authority_check | Authority Checks | [Classic ABAP Authority Check Test
 ltcl_call_rap_bo_tx_bf_dbl | RAP Business Objects | [Transactional Buffer Double Support](https://help.sap.com/docs/SAP_S4HANA_CLOUD/25cf71e63940453397a32dc2b7676947/0337944d45994a3ba7482421cdfe36c8.html) | SAP NetWeaver 757
 ltcl_call_rap_bo_mock_eml_api | RAP Business Objects | [Mock EML API Support](https://help.sap.com/docs/SAP_S4HANA_CLOUD/25cf71e63940453397a32dc2b7676947/4fa0e8a6ea0d4c45bec1afdc1ac6bd49.html?locale=en-US) | SAP NetWeaver 757
 
+## Requirements
+You need a system with an ABAP runtime and [abapGit](https://github.com/abapGit/abapGit).
+
 ## Download and Installation
 You can pull the code with [abapGit](https://github.com/abapGit/abapGit) to any system with an ABAP runtime.
 
@@ -26,6 +29,9 @@ You can pull the code with [abapGit](https://github.com/abapGit/abapGit) to any 
 [Create an issue](https://github.com/SAP-samples/abap-test-isolation-examples/issues) in this repository if you find a bug or have questions about the content.
  
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
+
+## Code of Conduct
+If you want to contribute to this repository, please check our [Code of Conduct](https://github.com/SAP-samples/abap-test-isolation-examplesblob/main/CODE_OF_CONDUCT.md).
 
 ## Contributing
 Please feel free to check our [Contribution-Guide](https://github.com/SAP-samples/abap-test-isolation-examplesblob/main/CONTRIBUTING.md).
