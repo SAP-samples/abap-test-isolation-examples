@@ -31,10 +31,10 @@ You can pull the code with [abapGit](https://github.com/abapGit/abapGit) to any 
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
 ## Code of Conduct
-If you want to contribute to this repository, please check our [Code of Conduct](https://github.com/SAP-samples/abap-test-isolation-examplesblob/main/CODE_OF_CONDUCT.md).
+If you want to contribute to this repository, please check our [Code of Conduct](https://github.com/SAP-samples/abap-test-isolation-examples/blob/main/CODE_OF_CONDUCT.md).
 
 ## Contributing
-Please feel free to check our [Contribution-Guide](https://github.com/SAP-samples/abap-test-isolation-examplesblob/main/CONTRIBUTING.md).
+Please feel free to check our [Contribution-Guide](https://github.com/SAP-samples/abap-test-isolation-examples/blob/main/CONTRIBUTING.md).
 
 ## License
 Copyright (c) 2023 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
