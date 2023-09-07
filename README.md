@@ -1,4 +1,4 @@
-# ABAP Test Isolation Frameworks
+# ABAP Test Isolation Examples
 This repository contains examples for all currently available test isolation tools in the ABAP Platform. 
 
 ## The Idea
