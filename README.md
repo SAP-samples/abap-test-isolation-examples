@@ -23,7 +23,7 @@ ltcl_call_rap_bo_mock_eml_api | RAP Business Objects | [Mock EML API Support](ht
 You can pull the code with [abapGit](https://github.com/abapGit/abapGit) to any system with an ABAP runtime.
 
 ## How to obtain support
-[Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
+[Create an issue](https://github.com/SAP-samples/abap-test-isolation-examples/issues) in this repository if you find a bug or have questions about the content.
  
 For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
