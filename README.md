@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/abap-test-isolation-examples)](https://api.reuse.software/info/github.com/SAP-samples/abap-test-isolation-examples)
+
 # ABAP Test Isolation Examples
 This repository contains examples for all currently available test isolation tools in the ABAP Platform. 
 
