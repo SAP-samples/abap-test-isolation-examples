@@ -20,6 +20,9 @@ ltc_select_cds_entity | Database Artefacts which are used in CDS | [ABAP CDS Tes
 ltc_call_authority_check | Authority Checks | [Classic ABAP Authority Check Test Helper API](https://help.sap.com/docs/ABAP_PLATFORM_NEW/c238d694b825421f940829321ffa326a/6500d4d8f89a4743a6c0513d659a475b.html?locale=en-US) | SAP NetWeaver 755
 ltcl_call_rap_bo_tx_bf_dbl | RAP Business Objects | [Transactional Buffer Double Support](https://help.sap.com/docs/SAP_S4HANA_CLOUD/25cf71e63940453397a32dc2b7676947/0337944d45994a3ba7482421cdfe36c8.html) | SAP NetWeaver 757
 ltcl_call_rap_bo_mock_eml_api | RAP Business Objects | [Mock EML API Support](https://help.sap.com/docs/SAP_S4HANA_CLOUD/25cf71e63940453397a32dc2b7676947/4fa0e8a6ea0d4c45bec1afdc1ac6bd49.html?locale=en-US) | SAP NetWeaver 757
+Standard class /DMO/ZZ_BP_X_REVIEW_R_AGENCYTP | RAP Business Object Events | [Event Test Double Framework](https://help.sap.com/docs/abap-cloud/abap-rap/developing-test-classes-for-agency-reference-scenario) | SAP NetWeaver 757
+
+Also, you can check show cases here [Used Frameworks and Tools](https://help.sap.com/docs/abap-cloud/abap-rap/used-frameworks-and-tools)
 
 ## Requirements
 You need a system with an ABAP runtime and [abapGit](https://github.com/abapGit/abapGit).
