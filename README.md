@@ -3,7 +3,7 @@
 
 This repository contains examples for all currently available test isolation tools in the ABAP Platform. 
 
-## The Idea
+## Idea
 The idea of this repository is to show how to use any test environment, helper class and some common design patterns that help with isolating your code under test from its depended-on components.
 
 ## How To Use This Repository
